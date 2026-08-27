@@ -1,0 +1,6 @@
+{
+  "name": "E-Voting PILBUP — Pemilihan Bupati Digital",
+  "description": "Sistem E-Voting pemilihan Bupati digital yang aman, transparan, dan terenkripsi dengan verifikasi DPT, bilik suara interaktif, audit log, dan dashboard rekapitulasi real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
